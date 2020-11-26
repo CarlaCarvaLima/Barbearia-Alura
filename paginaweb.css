@@ -1,0 +1,90 @@
+
+<style>
+
+
+			p {
+
+				text-align: center;
+
+				font-size: 40px;
+
+				font-family: arial;
+
+
+			}
+
+			body{
+
+				background: url("imagensAlura/fundopreto.jpg");
+			}
+
+			strong em{
+
+				color: #a32b2c;
+			}
+
+			a{
+
+				font-size: 25px; 
+
+				font-style: italic;
+
+				font-family: arial;
+
+				color: #FFFFFF;
+
+			}
+
+			.Benefícios{
+
+					background: url("imagensAlura/fundopreto.jpg");;
+
+					padding: 20px;
+
+					font-family: arial;
+
+					color: #FFFFFF;
+
+			}
+
+			.corFundo{
+
+				background: #CCCCCC;
+
+				padding: 30px;
+
+				font-size: 25px;
+			}
+
+			ul{
+
+				display: inline-block;
+
+				vertical-align: top;
+
+				width: 20%;
+
+				margin-right: 15%;
+
+			}	
+
+			.tituloPrincipal{
+
+				font-size: 50px;
+
+				text-align: center;
+
+				font-family: arial;
+
+				color: #FFFFFF;
+
+			}
+
+
+
+				
+
+
+
+
+		</style>	
